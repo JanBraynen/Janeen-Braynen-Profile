@@ -10,6 +10,7 @@ I am a postdoctoral researcher at Cold Spring Harbor Laboratory in Doreen Wareâ€
 
 <img src="https://github.com/user-attachments/assets/e9524927-1f97-4837-8534-6403f039acaa" alt="Dr. Janeen Braynen" width="200">
 
+Honolulu Plant Biology 2024
 
 ---
 
