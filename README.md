@@ -8,7 +8,7 @@
 ## About Me  
 I am a postdoctoral researcher at Cold Spring Harbor Laboratory in Doreen Ware’s lab. My research focuses on understanding nutrient adaptation mechanisms in Sorghum, with the aim of improving crop resilience and productivity. By integrating transcriptomics, elemental analysis, and phenotypic assessments, I address key challenges in sustainable agriculture, particularly in nutrient-limited environments.  
 
-<img src="(https://github.com/user-attachments/assets/f5731174-1413-43ce-8cf9-a9a4b7ea3474)" alt="Dr. Janeen Braynen" width="200">
+<img src="(https://github.com/user-attachments/assets/f5731174-1413-43ce-8cf9-a9a4b7ea3474)" width="200">
 ---
 
 ## Research Interests  
