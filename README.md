@@ -119,12 +119,12 @@ a.	B.oleracea (CC). J. Plant Biol. 2017; 60:181–188. doi: 10.1007/s12374-016-0
 
 ## Connect With Me
 
-📧 Institutional Email: braynen@cshl.edu
+Institutional Email: braynen@cshl.edu
 
-🔗 ORCID: Add your ORCID profile link
+ORCID: https://orcid.org/0000-0002-0670-2148
 
-🔗 Google Scholar: Add your Google Scholar profile link
+Google Scholar: https://scholar.google.com/citations?user=gC4o-FAAAAAJ&hl=en&oi=ao
 
-🔗 LinkedIn: Add your LinkedIn profile link
+LinkedIn: https://www.linkedin.com/in/janeen-braynen-9a1520108/
 
 Feel free to reach out regarding collaborations, scientific discussions, or mentoring opportunities in plant biology, genomics, and crop science.
