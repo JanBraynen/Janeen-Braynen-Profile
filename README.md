@@ -6,7 +6,6 @@ Postdoctoral Researcher | Plant Genomics | Nutrient Adaptation in Sorghum
 
 Presenting research at Plant Biology 2024, Honolulu, Hawaiʻi
 
-⸻
 
 ## About Me
 
@@ -16,7 +15,6 @@ My research integrates transcriptomics, single-cell genomics, ionomics, and phen
 
 I am passionate about translating discoveries in plant biology into strategies that support sustainable agriculture and global food security.
 
-⸻
 
 ## Research Interests
 
@@ -29,7 +27,6 @@ I am passionate about translating discoveries in plant biology into strategies t
 * Crop Improvement
     * Identifying traits and genes associated with nutrient-use efficiency
 
-⸻
 
 ## Current Research
 
@@ -39,13 +36,11 @@ Carbon Partitioning NAM (CP-NAM) Sorghum Population
 
 Research Focus: Investigating natural variation in nutrient adaptation among diverse sorghum founder lines.
 
-⸻
 
 ## Nutrient Adaptation in Forage Sorghum
 
 Research Focus: Understanding how forage sorghum responds to nutrient stress at the cellular and whole-plant levels.
 
-⸻
 
 ## Technical Skills
 
@@ -72,8 +67,6 @@ Experimental Techniques
 * Plant phenotyping
 * Molecular biology techniques
 
-⸻
-
 ## Scientific Leadership & Outreach
 
 * Co-Chair, ASPB Alliance
@@ -81,8 +74,6 @@ Experimental Techniques
 * Co-Chair of In-House Education, WiSE at Cold Spring Harbor Laboratory
 * Mentor for undergraduate and high school research trainees
 * Advocate for outreach, mentoring, and inclusive excellence in plant science
-
-⸻
 
 ## Open-Source Resources
 
@@ -92,8 +83,6 @@ Experimental Techniques
 * Plant genomics analysis tools
 
 🔗 Repository: https://github.com/JanBraynen/RNA-seq_analysis
-
-⸻
 
 ## Collaboration Interests
 
@@ -105,13 +94,11 @@ I welcome collaborations involving:
 * Stress physiology
 * Crop improvement and sustainable agriculture
 
-⸻
 
 ## Selected Publications
 
 Publications and preprints coming soon.
 
-⸻
 
 📫 Connect With Me
 
