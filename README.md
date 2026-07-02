@@ -96,11 +96,28 @@ I welcome collaborations involving:
 
 
 ## Selected Publications
+# Manuscripts in preparation: 
+1.	Braynen J et al (in preparation). Genome-wide Response to Iron Availability and Identification of Leaf-level Metal Acclimation Factors in Four Sorghum CP-NAM Population.
+2.	Braynen J et al (in preparation). Evaluating Nitrate Tolerance in Male Sterile Sorghum Lines for implications for safe forage Production.
 
-Publications and preprints coming soon.
+# Published manuscripts:
+1.	Gladman N., Olson A., Kumari S.,Wei S., Chougule K., Lu Z.,Tello-Ruiz M.K., VanBuren P., Kumar V., Zhang L., Olson A., Kim C., Braynen J., Hayes C., Xin Z., Klein R., Rooney W., Provart N., Pasha A., O’Meara A.,  Shakoor N., Michael T.P., Harrison M.,Ware D., SorghumBase: a knowledgebase for sorghum genomics, phenomics, and stakeholder engagement, Genetics, 2026;, iyaf266, https://doi.org/10.1093/genetics/iyaf266
+2.	Olson, A., Kumari, S. , Wei, X., Chougule, K.,  Lu, Z., Karey Tello-Ruiz, M, Kumar V., Van Buren P 1, Olson A., Kim C., Braynen J., et al  (2025) Gramene 2025: expanded comparative genomics and pathway resources, integrated search, and pan-genome portals for crop research. Nucleic Acids Res. Dec 3:gkaf1260. doi: 10.1093/nar/gkaf1260. Epub ahead of print. PMID: 41335101.
+3.	Braynen J et al. (2025) Decoding Nitrogen Use Efficiency in Maize and Sorghum: Insights from Comparative Gene Regulatory Networks for Sustainable Agriculture. Plant J.Dec;124(6):e70631. doi: 10.1111/tpj.70631. PMID: 41411658; PMCID: PMC12714369.
+4.	Mishra A,Kumari, S, Sharma R, Braynen J et al (2025) Time-series multi-omics analysis of micronutrient stress in Sorghum bicolor reveals a combined strategy of iron and zinc uptake. Plant Biol J. https://doi.org/10.1111/plb.70038
+5.	Zhang L, Braynen J et al. (2023) Two related families of metal transferases, ZNG1 and ZNG2, are involved in acclimation to poor Zn nutrition in Arabidopsis. Front Plant Sci. doi: 10.3389/fpls.2023.1237722.
+6.	Braynen, J., Yang, Y., Yuan, J. et al. (2021) Comparative transcriptome analysis revealed differential gene expression in multiple signaling pathways at flowering in polyploid Brassica rapa. Cell Biosci 11, 17. doi:
+a.	10.1186/s13578-021-00528-1
+7.	Yang Y, Wei F, Braynen J, et al. (2019). Cytological and proteomic analyses of floral buds reveal an altered atlas of meiosis in autopolyploid Brassica rapa. Cell Biosci. 9:49. doi:10.1186/s13578-019-0313-z
+8.	Yuan, J., Shi, G., Yang, Y., Braynen, J., (2021) Non-homologous chromosome pairing during meiosis in haploid Brassica rapa. Plant Cell Rep 40, 2421–2434. doi: 10.1007/s00299-021-02786-2
+9.	Braynen J, Yang Y, Wei F, et al. (2017). Transcriptome Analysis of Floral Buds Deciphered an Irregular Course of Meiosis in Polyploid Brassica rapa. Front Plant Sci. 2017; 8:768. doi:10.3389/fpls.2017.00768
+10.	Liu S, Yang Y, Wei F, Duan J, Braynen J, et al. (2017). Autopolyploidy leads to rapid genomic changes in Arabidopsis thaliana. Theory Biosci. 2017:136(3-4):199-206. doi: 10.1007/s12064-017-0252-3
+11.	Yang, Y., Wei, X., Shi, G., Wei, F., Braynen, J., et al. (2017). Molecular and cytological analyses of A and C genomes at meiosis in synthetic allotriploid Brassica hybrids (ACC) between B.napus (AACC) and
+a.	B.oleracea (CC). J. Plant Biol. 2017; 60:181–188. doi: 10.1007/s12374-016-0221-2
 
 
-📫 Connect With Me
+
+## Connect With Me
 
 📧 Institutional Email: braynen@cshl.edu
 
